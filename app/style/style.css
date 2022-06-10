@@ -1,0 +1,37 @@
+.container{
+    max-width: 960px;
+    margin: 10px auto;
+    padding: 0 2%;
+    text-align: center;
+}
+.container h2{
+    font-size: 40px;
+    margin: 30px 0;
+}
+.container p{
+    font-size: 17px;   
+}
+
+.container input[type=text]{
+    width: 100%;
+    border-radius: 8px;
+    height: 30px;
+    border: 1px solid #CCC;
+}
+
+.container input[type=submit]{
+    display: block;
+    font-size: 23px;
+    color: white;
+    margin: 10px 0;
+    width: 100%;
+    height: 30px;
+    cursor: pointer;
+    border: 0;
+    background-color: #44c78b;
+}
+
+.img-frame img{
+    width: 100%;
+    /* border: 2px solid black; */
+}
